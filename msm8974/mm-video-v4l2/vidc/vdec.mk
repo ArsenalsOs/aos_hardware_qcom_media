@@ -106,7 +106,6 @@ libmm-vdec-inc      += hardware/qcom/media/msm8974/libc2dcolorconvert
 libmm-vdec-inc      += frameworks/av/include/media/stagefright
 
 
-LOCAL_PROPRIETARY_MODULE        := true
 LOCAL_MODULE                    := libOmxVdec
 LOCAL_LICENSE_KINDS             := SPDX-license-identifier-BSD
 LOCAL_LICENSE_CONDITIONS        := notice

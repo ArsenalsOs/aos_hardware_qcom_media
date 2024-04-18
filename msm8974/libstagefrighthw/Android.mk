@@ -40,7 +40,6 @@ LOCAL_SHARED_LIBRARIES :=       \
 LOCAL_HEADER_LIBRARIES :=       \
         libstagefright_headers media_plugin_headers
 
-LOCAL_PROPRIETARY_MODULE := true
 LOCAL_MODULE := libstagefrighthw
 LOCAL_LICENSE_KINDS := SPDX-license-identifier-Apache-2.0
 LOCAL_LICENSE_CONDITIONS := notice
